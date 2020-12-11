@@ -1,2 +1,4 @@
 
 .idea
+/doupan/__pycache__/*.pyc
+/doupan/spiders/__pycache__/*.pyc
